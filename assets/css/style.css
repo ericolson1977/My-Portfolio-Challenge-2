@@ -1,0 +1,36 @@
+/* body {
+    display: flex;
+    background-color: azure;
+    font-family: sans-serif;
+    flex-direction: column;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1 {
+    font-size: 200%;
+    margin: 20px 100px;
+    background: border-box;
+    padding: 8px;
+    background-color: steelblue;
+    color: white;
+}
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+nav a {
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+}
+
+main {
+    display: flex;
+} */

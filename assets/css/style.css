@@ -37,6 +37,12 @@ nav li a {
     text-decoration: none;
 }
 
+.image {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+}
+
 .portfolio-section {
     display: flex;
     justify-content: space-between;
@@ -53,7 +59,6 @@ main {
 
 .portfolio-section div {
     flex: 0 0 75%;
-
 }
 
 .projects {
@@ -72,4 +77,13 @@ main {
     height: 300px;
     flex-basis: 100%;
     margin: 5px 15px;
+}
+
+.contact {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; 
+    min-width: 300px;
+    margin:10px;
+    
 }

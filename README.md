@@ -17,7 +17,7 @@ N/A
 
 https://ericolson1977.github.io/My-Portfolio-Challenge-2/
 
-
+![Alt text](assets/Images/ericolson1977.github.io_My-Portfolio-Challenge-2_.png)
 
 ##Credits
 
